@@ -1,0 +1,41 @@
+HTML = Hyper Text Markup Language.
+Em português, Linguagem de Marcação de HyperTexto.
+
+Link = Ligação ou Vínculo entre arquivos.
+
+HyperTexto = Texto com marcações que permite linkar para 
+outras referencias.
+
+Marcação = Determina a localização da informação.
+
+Semântica = Determina o significado ou sentido da informação.
+
+TAG = Comandos em HTML ou Etiqueta.
+
+Documento = É o arquivo HTML como um todo.
+
+Atributo (ou Propriedades) = Informações que são alocadas na TAG de 
+abertura que mudam o comportamento da TAG.
+
+Atributos Globais:
+
+- Todos os elementos HTML pode ter atributos;
+- Fornecem informações adicionais entre um elemento;
+- Sempre são definidos na tag de abertura;
+- Podem ser em pares nome/valor (ex: nome="valor") ou apenas o nome;
+
+accesskey = Define uma tecla de atalho para focar no elemento.
+class = Define quais classes CSS serão aplicadas no elemento.
+contenteditable = Define se o conteúdo do elemento pode ou não se etitável.
+data-* = Usado para armazenar dados em um elemento. No lugar do (*) deve definir um nome.
+dir = Define a direção do conteúdo de um elemento. 
+draggable = Define se o elemento pode ser arrastado ou não.
+dropzone = Define o que acontece quando o elemento arrastado é solto neste elemento.
+hidden = Define o elemnto como oculto.
+id = Define uma identificação única para o elemento.
+lang = Define a linguagem do conteúdo do elemento.
+spellcheck = Define se o conteúdo do elemento deve ter sua ortografia da página.
+style = Define estilos CSS diretamente no elemento.
+tabindex = Define a posição do elemento na ordem de tabulação(tab) da página.
+title = Definte informações sobre o elemento.
+translate = Define se o conteúdo do elemento pode ser traduzido ou não.
