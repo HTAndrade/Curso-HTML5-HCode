@@ -1,0 +1,30 @@
+Eventos: 
+
+São gatilhos disparados devido alguma interação.
+
+A maioria são disparados por ações do usuario.
+
+Normalmente executamos algum código JavaScript após um evento acontecer.
+
+Temos eventos de: Janela, Formulario, Teclado, Mouse, Arrasto(drag e drop), 
+Transferencia, Midia e outros.
+
+Nos atributos HTML todo evento deve ter o prefixo "on". 
+
+Janela: 
+
+afterprint = Disparado depois da página ser impressa.
+beforeprint = Disparado antes da página ser impressa.
+beforeunload = Disparado antes do navegador carregar outra página.
+error = Disparado quando ocorrer um erro.
+hasgchange = Disparado quando o hash da url da página é alterado.
+load = Disparado quando toda a página for carregada.
+message = Disparado quando ocorrer uma mensagem.
+offline = Idsparado quando o navegador é desconectado da internet.
+online = Disparado quando o navegador é conectado com a internet.
+pagehide = Disparado quando a página é ocultada.
+pageshow = Disparado quando a página é mostrada.
+popstate = Disparado quando a ocorrência no histórico do navegador for alterado.
+resize = Disparado quando a janela é redimencionada.
+storage = Disparado quando o armazenamento do navegador é alterado.
+unload = Disparado quando o usuário atualiza a página ou fecha a janela.
